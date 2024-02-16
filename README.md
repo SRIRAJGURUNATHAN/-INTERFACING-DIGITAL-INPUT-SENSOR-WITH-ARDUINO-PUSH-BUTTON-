@@ -91,22 +91,6 @@ void loop()
   }
 }
  
- 
-
-
-
-
-
-
-
-
-
- 
- 
- 
-
-
-
 ## OUTPUT OF SIMULATION :
 
 [My image](username.github.com/repository/img/image.jpg)
