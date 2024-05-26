@@ -63,6 +63,7 @@ FIGURE -03
 
 
 ## PROGRAM :
+```
 // C++ code
 //
 int led=3;
@@ -90,6 +91,7 @@ void loop()
     delay(500);
   }
 }
+```
  
 ## OUTPUT OF SIMULATION :
 
